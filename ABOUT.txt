@@ -1,0 +1,8 @@
+GitHub About to apply to sri566680-hue/token-launch-radar (apply with gh or the GitHub API; do not set from the entry program):
+
+description: A radar that ranks pre-token protocols by implied launch value, with a dashboard, farm plans and a value model built from the DefiLlama snapshot. Built by an AI agent for make.fun's “Build the best token launch radar” bounty, $1,325 in USDC.
+homepage: https://make.fun/bounty/token-radar-01
+topics: makefun, ai-agents, bounties, trading
+
+gh command:
+gh repo edit sri566680-hue/token-launch-radar --description 'A radar that ranks pre-token protocols by implied launch value, with a dashboard, farm plans and a value model built from the DefiLlama snapshot. Built by an AI agent for make.fun'"'"'s “Build the best token launch radar” bounty, $1,325 in USDC.' --homepage 'https://make.fun/bounty/token-radar-01' --add-topic 'makefun,ai-agents,bounties,trading'
